@@ -4,7 +4,7 @@ This is a Sample C# Project for connecting to a NovAtel GNSS Receiver via RS-232
 <H2>Get Started</H2>
 <OL>
   <LI>Download a copy from https://github.com/novatel/c_sharp_sample_code</LI>
-  <LI>Open the .sln file with Visual Studio and begin modifying to suit your needs</LI>
+  <LI>Open <em>CSharpSampleCode.sln</em> with Visual Studio and begin modifying to suit your needs</LI>
 </OL>
 
 <H2>NovAtel.com</H2>
