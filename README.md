@@ -1,4 +1,4 @@
-# CSharpSampleCode
+# C# Sample Code
 This is a Sample C# Project for connecting to a NovAtel GNSS Receiver via RS-232/Serial.
 
 <H2>NovAtel.com</H2>
